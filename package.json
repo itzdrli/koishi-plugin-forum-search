@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-forum-search",
+  "description": "Koishi plugin helps you fast search the Koishi Forum (forum.koishi.xyz)",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "4.13.9"
+  }
+}
